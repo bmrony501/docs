@@ -165,7 +165,8 @@ $ git clone https://{% data variables.command_line.codeblock %}/USER/REPO.git
 ```
 
 To fix the error, you'll need to be an administrator of the repository on {% data variables.location.product_location %}.
-You'll want to [change the default branch](/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch) of the repository.
+You'll want to [change the default branch](/repositories/configuring-branches-and-merges-in-your-repository/managing-branches-in-your-repository/changing-the-default-branch) of the repository.c+m
+
 
 After that, you can get a list of all the available branches from the command line:
 
